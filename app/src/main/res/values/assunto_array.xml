@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="assunto">
+        <item>Requisição</item>
+        <item>Sugestão</item>
+        <item>Duvida</item>
+    </array>
+
+</resources>
